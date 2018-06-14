@@ -1,0 +1,16 @@
+Project 1 Report :
+
+1. First Program :
+	Program File - ProjectPart1.py
+	Command to run the Program - python ProjectPart1.py 0.4 0.4 0.7 0.7 fruits.jpg outputPart1.jpg
+	
+1. Second Program :
+	Program File - ProjectPart2.py
+	Command to run the Program - python ProjectPart2.py 0.4 0.4 0.7 0.7 fruits.jpg outputPart2.jpg
+	
+Other Decisions :
+
+1. During calculations, all the denominators other than direct numeric digits are checked at all the stages to not make the result NaN or indefinite.
+2. The range of L is ensured is between 0 and 100.
+3. At all stages, it is ensured that float doesn't convert to int or vice-versa wherevernot required.
+4. It has been made sure to convert float digits to round or floor or int wherever required.
